@@ -73,8 +73,6 @@ const unsigned int meshSize = 256;
 const unsigned int spectrumW = meshSize + 4;
 const unsigned int spectrumH = meshSize + 1;
 
-const int frameCompare = 4;
-
 bool animate = true;
 
 // FFT data
